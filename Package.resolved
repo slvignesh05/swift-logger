@@ -1,14 +1,42 @@
 {
+  "originHash" : "c938d6018b3ad8b1d0daf8be962862303b9c50e2be47002881c810db4a1ebc4a",
   "pins" : [
     {
-      "identity" : "swift-log",
+      "identity" : "gzipswift",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/apple/swift-log.git",
+      "location" : "https://github.com/1024jp/GzipSwift",
       "state" : {
-        "revision" : "abcbfa",
-        "version" : "1.6.3"
+        "revision" : "731037f6cc2be2ec01562f6597c1d0aa3fe6fd05",
+        "version" : "6.0.1"
       }
-    }
-  ],
-  "version" : 2
+    },
+    {
+      "identity" : "highlighterswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/smittytone/HighlighterSwift.git",
+      "state" : {
+        "revision" : "7faedca3fe85b807848f8ac9729427a1abcf8a90",
+        "version" : "1.1.6"
+      }
+    },
+    {
+      "identity" : "highlightr",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/raspu/Highlightr.git",
+      "state" : {
+        "revision" : "bcf2d0590f32ac2528feb72d7e34f5b463801a47",
+        "version" : "2.2.1"
+      }
+    },
+    {
+      "identity" : "jinja",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/maiqingqiang/Jinja",
+      "state" : {
+        "revision" : "6dbe4c449469fb586d0f7339f900f0dd4d78b167",
+        "version" : "1.0.6"
+      }
+    },  
+],
+  "version" : 3
 }
